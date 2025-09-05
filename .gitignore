@@ -38,3 +38,6 @@ out/
 
 ### application.properties ###
 /src/main/resources/application.properties
+
+### mykeystore.p12 ###
+/src/main/resources/mykeystore.p12
